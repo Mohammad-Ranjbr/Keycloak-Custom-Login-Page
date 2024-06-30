@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="boot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.smallrye.common.smallrye-common-constraint-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.smallrye.common.smallrye-common-expression-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.quarkus.quarkus-development-mode-spi-3.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.smallrye.common.smallrye-common-os-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.smallrye.common.smallrye-common-io-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.smallrye.common.smallrye-common-net-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.quarkus.quarkus-bootstrap-runner-3.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/org.eclipse.parsson.parsson-1.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.smallrye.common.smallrye-common-cpu-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/org.jboss.logging.jboss-logging-3.5.3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.smallrye.common.smallrye-common-function-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/jakarta.json.jakarta.json-api-2.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/org.jboss.logmanager.jboss-logmanager-3.0.4.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.smallrye.common.smallrye-common-ref-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.github.crac.org-crac-0.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.quarkus.quarkus-vertx-latebound-mdc-provider-3.8.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
